@@ -7,6 +7,8 @@ This project is a fully automated **AI comic book pipeline** that produces a 41-
 
 LinkedIn post --> (https://www.linkedin.com/posts/ahmed-dawod-bakr_llm-llama3-stablediffusion-ugcPost-7432019670947479552-zja2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEl1U90Br7kCP1FcNorK3QnQw_3y31b3hwE)
 
+Drive contain the Comic and the project --> (https://drive.google.com/drive/folders/1EqDVZsoPxtjT1Qgx0xNhV7E9Zk75C2Tg?usp=drive_link)
+
 ---
 
 ## 📖 Story Summary
