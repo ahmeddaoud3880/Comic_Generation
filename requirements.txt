@@ -1,0 +1,34 @@
+# AI Comic Pipeline — Python Dependencies
+# Install via: pip install -r requirements.txt
+# Note: The notebook installs these automatically in its first cell.
+
+# ── Core ML / Diffusion ────────────────────────────────────────────
+diffusers>=0.32.0
+transformers>=4.44.0
+accelerate
+torch                        # install the correct CUDA version for your GPU
+huggingface_hub
+
+# ── Image Generation & Processing ─────────────────────────────────
+Pillow
+
+# ── CLIP / LongCLIP Evaluation ────────────────────────────────────
+open-clip-torch
+git+https://github.com/openai/CLIP.git    # standard OpenAI CLIP
+
+# ── Dialogue Generation (Groq API + LangChain) ────────────────────
+langchain-groq
+langchain-core
+
+# ── PDF Generation ────────────────────────────────────────────────
+reportlab
+
+# ── Tokenization / Utilities ──────────────────────────────────────
+sentencepiece
+protobuf
+
+# ── Story Coherence Evaluation ────────────────────────────────────
+# GPT-2 is loaded via transformers (already listed above)
+
+# ── Standard Library (no install needed) ──────────────────────────
+# torch, os, json, gc, re, numpy, datetime, IPython — included with Python/Colab
