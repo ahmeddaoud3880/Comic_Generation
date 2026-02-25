@@ -4,6 +4,8 @@
 > *A children's story about self-acceptance, generated entirely by AI.*
 
 This project is a fully automated **AI comic book pipeline** that produces a 41-scene illustrated comic — complete with dialogue, speech bubbles, and a PDF output — using a combination of large language models and image diffusion models.
+This project helps in practical to help people who has the ability to make comic storyies and they have the ability to visualize images and events, but they do not possess professional drawing skills or drawing skills at all!
+so this project we help them by to do that by justing identifing there prompts for each panal he wants to make it and the style for the comic and comsistant prompt for each charcter in the story he/she has.
 
 LinkedIn post --> (https://www.linkedin.com/posts/ahmed-dawod-bakr_llm-llama3-stablediffusion-ugcPost-7432019670947479552-zja2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEl1U90Br7kCP1FcNorK3QnQw_3y31b3hwE)
 
